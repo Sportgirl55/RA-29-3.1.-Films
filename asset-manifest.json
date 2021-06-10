@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sportgirl55/RA-29-3.1.-Films/static/css/main.2c2467ed.chunk.css",
+    "main.js": "/Sportgirl55/RA-29-3.1.-Films/static/js/main.9474b435.chunk.js",
+    "main.js.map": "/Sportgirl55/RA-29-3.1.-Films/static/js/main.9474b435.chunk.js.map",
+    "runtime-main.js": "/Sportgirl55/RA-29-3.1.-Films/static/js/runtime-main.d2fd1dde.js",
+    "runtime-main.js.map": "/Sportgirl55/RA-29-3.1.-Films/static/js/runtime-main.d2fd1dde.js.map",
+    "static/js/2.806f6d1e.chunk.js": "/Sportgirl55/RA-29-3.1.-Films/static/js/2.806f6d1e.chunk.js",
+    "static/js/2.806f6d1e.chunk.js.map": "/Sportgirl55/RA-29-3.1.-Films/static/js/2.806f6d1e.chunk.js.map",
+    "index.html": "/Sportgirl55/RA-29-3.1.-Films/index.html",
+    "static/css/main.2c2467ed.chunk.css.map": "/Sportgirl55/RA-29-3.1.-Films/static/css/main.2c2467ed.chunk.css.map",
+    "static/js/2.806f6d1e.chunk.js.LICENSE.txt": "/Sportgirl55/RA-29-3.1.-Films/static/js/2.806f6d1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2fd1dde.js",
+    "static/js/2.806f6d1e.chunk.js",
+    "static/css/main.2c2467ed.chunk.css",
+    "static/js/main.9474b435.chunk.js"
+  ]
+}
